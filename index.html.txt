@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Digital Marketing Agency</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>BoostSphere Digital Marketing</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h2>Your Digital Marketing Partner</h2>
+            <p>We provide cutting-edge solutions to help your business grow online.</p>
+            <a href="#services" class="btn">Discover Our Services</a>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-item">
+                <h3>Social Media Marketing</h3>
+                <p>Grow your brand's presence on social media with targeted campaigns.</p>
+            </div>
+            <div class="service-item">
+                <h3>Search Engine Optimization</h3>
+                <p>Improve your website's visibility and attract organic traffic with SEO.</p>
+            </div>
+            <div class="service-item">
+                <h3>Paid Advertising</h3>
+                <p>Boost conversions with data-driven PPC advertising strategies.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>BoostSphere is a leading digital marketing agency committed to delivering measurable results for our clients. Our expert team specializes in creating tailored marketing strategies that help businesses achieve their goals.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Get in touch with us for a consultation and let’s grow your business together!</p>
+            <a href="mailto:info@boostsphere.com" class="btn">Email Us</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 BoostSphere Digital Marketing | All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
